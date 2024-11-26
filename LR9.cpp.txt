@@ -1,0 +1,6 @@
+# include <iostream>
+# include <iomanip>
+using name space std;
+{
+	cout << setw(5) << "Hello world" << endl;
+}
