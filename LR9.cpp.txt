@@ -4,6 +4,5 @@ using name space std;
 int main()
 {
 	cout << "Hello world" << endl;
-
-	cout << "Hello world" << endl;
 }
+jfhauishf dijowej klheoiuj fjejioewjkjkelfuwhe
