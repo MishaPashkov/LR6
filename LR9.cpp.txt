@@ -9,3 +9,6 @@ int main()
 {
 	cout << setw(5) << "Hello world" << endl;
 }
+{
+	cout << setw(5) << "Hello world" << endl;
+}
