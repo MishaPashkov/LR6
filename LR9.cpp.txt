@@ -9,7 +9,3 @@ int main()
 {
 	cout << setw(5) << "Hello world" << endl;
 }
-int main()
-{
-	cout << setw(5) << "Hello world" << endl;
-}
